@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/guljarhussain0560/my-leets/tree/master/1189-maximum-number-of-balloons) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/guljarhussain0560/my-leets/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/guljarhussain0560/my-leets/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
