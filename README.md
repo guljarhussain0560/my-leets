@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/guljarhussain0560/my-leets/tree/master/0029-divide-two-integers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/guljarhussain0560/my-leets/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/guljarhussain0560/my-leets/tree/master/0027-remove-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/guljarhussain0560/my-leets/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
