@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/guljarhussain0560/my-leets/tree/master/0029-divide-two-integers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/guljarhussain0560/my-leets/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/guljarhussain0560/my-leets/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/guljarhussain0560/my-leets/tree/master/0027-remove-element) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/guljarhussain0560/my-leets/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/guljarhussain0560/my-leets/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/guljarhussain0560/my-leets/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/guljarhussain0560/my-leets/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/guljarhussain0560/my-leets/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
